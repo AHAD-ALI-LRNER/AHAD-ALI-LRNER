@@ -1,4 +1,4 @@
-# 💫 Hi 👋, Ahad Ali
+# 💫 Hi 👋, I am Ahad Ali
 **I'm an engineering student focused on Machine Learning and AI**
 
 Email Me 👉 ✉️ **work.ahad123.com** For Collaboration/Project or Anything Else. 😊😊
