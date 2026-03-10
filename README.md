@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I am Ahad Ali
 **I'm an engineering student focused on Machine Learning and AI**
 
-Email Me 👉 ✉️ **work.ahad123.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **work.ahad123@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Machine Learning Projects involving data prepocessing, model training, and evaluation
 - 🌱 **I’m currently learning:** Machine Leaning , Deep learning  
